@@ -1,0 +1,87 @@
+# =========================
+# OS / Environment
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Editors / IDEs
+# =========================
+.idea/
+*.swp
+*.swo
+
+# VS Code: ignore all nested .vscode, allow only root settings/extensions
+**/.vscode/
+!.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# =========================
+# Build artifacts (general)
+# =========================
+build/
+dist/
+out/
+target/          # common output folder name (also Rust/Java)
+
+*.exe
+*.dll
+*.obj
+*.o
+*.so
+*.a
+*.lib
+*.ilk
+*.pdb
+
+# =========================
+# C / C++
+# =========================
+*.out
+
+# MSVC extras
+*.ipch
+*.tlog
+*.idb
+*.iobj
+*.pch
+*.sdf
+*.opensdf
+
+# =========================
+# .NET / C#
+# =========================
+bin/
+obj/
+*.user
+*.suo
+
+# =========================
+# Java
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# =========================
+# Go
+# =========================
+*.test
+
+# =========================
+# Logs
+# =========================
+*.log
