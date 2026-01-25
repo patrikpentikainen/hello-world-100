@@ -95,3 +95,5 @@ Uusia kieliä lisätään oppimisen edetessä.
 ## Lisenssi
 
 Projekti on tarkoitettu oppimis- ja harjoituskäyttöön.
+
+---
