@@ -8,6 +8,7 @@ desktop.ini
 # =========================
 # Editors / IDEs
 # =========================
+.vscode/
 .idea/
 *.swp
 *.swo
