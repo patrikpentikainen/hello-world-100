@@ -13,12 +13,6 @@ desktop.ini
 *.swp
 *.swo
 
-# VS Code: ignore all nested .vscode, allow only root settings/extensions
-**/.vscode/
-!.vscode/
-!.vscode/settings.json
-!.vscode/extensions.json
-
 # =========================
 # Build artifacts (general)
 # =========================
