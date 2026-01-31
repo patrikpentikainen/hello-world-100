@@ -28,31 +28,29 @@ hello.exe
 
 ### Output
 
-```bash
+```text
 Hello World!
 ```
 
 ### Notes
 
-- Uses <iostream> from the C++ standard library
-
-- std::cout is used for output
-
-- main() returns 0 to indicate successful execution
+- Uses `<iostream>` from the C++ standard library
+- `std::cout` is used for output
+- `main()` returns `0` to indicate successful execution
 
 ---
 
 ## Suomi 🇫🇮
 
-Tämä esimerkki näyttää yksinkertaisen Hello World -ohjelman C++-kielellä, käyttäen standardikirjastoa.
+Tämä esimerkki näyttää yksinkertaisen **Hello World** -ohjelman **C++**-kielellä, käyttäen standardikirjastoa.
 
 ### Lähdetiedosto
 
-- hello.cpp
+- `hello.cpp`
 
 ### Vaatimukset
 
-- C++-kääntäjä (esim. g++, clang++ tai MSVC)
+- C++-kääntäjä (esim. **g++**, **clang++** tai **MSVC**)
 
 ### Kääntäminen ja ajaminen
 
@@ -70,16 +68,14 @@ hello.exe
 
 ### Tuloste
 
-```bash
+```text
 Hello World!
 ```
 
 ### Huomiot
 
-- Käyttää C++-standardikirjaston <iostream>-kirjastoa
-
-- Tulostus tehdään std::cout-oliolla
-
-- main() palauttaa arvon 0, mikä tarkoittaa onnistunutta suoritusta
+- Käyttää C++-standardikirjaston `<iostream>`-kirjastoa
+- Tulostus tehdään `std::cout`-oliolla
+- `main()` palauttaa arvon `0`, mikä tarkoittaa onnistunutta suoritusta
 
 ---
